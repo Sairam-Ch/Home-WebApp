@@ -1,2 +1,11 @@
-# Home-WebApp
-ParentAPP
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+node_modules/
+platforms/
+plugins/
+.bowerrc
+config.xml
+ionic.project
+bower.json
+.idea/
